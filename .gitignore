@@ -12,7 +12,6 @@ env/
 # Ignore data files
 data/
 *.csv
-*.h5
 
 # Ignore model files
 *.h5
